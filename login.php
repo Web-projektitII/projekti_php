@@ -1,5 +1,5 @@
 <?php
-/* Suljettujen sivujen harjoittelua */
+/* Suljettujen sivujen harjoittelua ver. 1.0 */
  require_once('bookmark_fns.php');
  do_html_header('');
 
