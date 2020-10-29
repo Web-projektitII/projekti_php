@@ -1,0 +1,4 @@
+2020-10-28 09:59:45 select salasana from user where sahkoposti = 'jukka.aula@omnia.fi'
+2020-10-28 10:03:50 row:array (
+  0 => '$2y$10$d4JIZ/XkDd1GZSam2BWy7OJpt9MmqV1naNPjkHaaDdWP/4ZXeHOym',
+)
